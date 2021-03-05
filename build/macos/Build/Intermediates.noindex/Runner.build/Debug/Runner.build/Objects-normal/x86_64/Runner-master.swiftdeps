@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "2b22157bfe5d351976da5e88453bfec6"
+build_time: [1614839902, 761864000]
+inputs:
+  "/Users/she/Work/Project/TK/code/Union-Flutter/union_flutter/macos/Runner/MainFlutterWindow.swift": [1614798182, 0]
+  "/Users/she/Work/Project/TK/code/Union-Flutter/union_flutter/macos/Runner/AppDelegate.swift": [1614798182, 0]
+  "/Users/she/Work/Project/TK/code/Union-Flutter/union_flutter/macos/Flutter/GeneratedPluginRegistrant.swift": [1614839884, 425196274]
